@@ -16,7 +16,7 @@ The Traffic Light Reader is an advanced machine learning-based application desig
 - Analyzes each circle to determine if red, orange, or green is the dominant color.
 
 ## Result Image
-![Traffic Light Detection Result](https://github.com/brosio-lsn/trafficLight_reader/blob/main/result.jpg)
+![Traffic Light Detection Result](https://github.com/brosio-lsn/trafficLight_reader/blob/master/result.jpg)
 
 ## Usage
 Instructions on how to use the application, including image input requirements and execution steps, are provided in the project's documentation.
